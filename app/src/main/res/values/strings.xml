@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+    <string name="city_name">Huntsville</string>
+    <string name="state_name">Alabama</string>
+    <string name="Urban">City Attractions</string>
+    <string name="Rural">Nature Attractions</string>
+    <string name="Food">Local Resturants</string>
+    <string name="Art">Local Museums</string>
+    <string name="museumOfArt">Museum Of Art</string>
+    <string name="museumOfArtInfo">It was originally established by city Ordinance No. 70-134</string>
+    <string name="weedenHouseMuseum">Weeden House Museum</string>
+    <string name="weedenHouseMuseumInfo">Historic 1819 house and flower garden, home of the painter and poet Maria Howard Weeden</string>
+    <string name="childrenHistoryMuseum">Children\'s History Museum</string>
+    <string name="childrenHistoryMuseumInfo">Hands-on history museum for kids, with a talking tree, grocery store replica and instruments to play.</string>
+    <string name="bigSpringPark">Big Spring Park</string>
+    <string name="bigSpringParkInfo">The park plays host to numerous events</string>
+    <string name="botanicalGarden">Botanical Garden</string>
+    <string name="botanicalGardenInfo"> 112 acre botanical garden</string>
+    <string name="Burritt">Burritt On the Mountain</string>
+    <string name="BurrittInfo">A Historic Mansion and Park overlooking Huntsville, Alabama</string>
+    <string name="USspacerocket">US Space and Rocket</string>
+    <string name="USspacerocketInfo">museum operated by the government of Alabama</string>
+    <string name="USspacecamp">US Space Camp</string>
+    <string name="USspacecampinfo">operated by the Alabama Space Science Exhibit </string>
+    <string name="railway">Southern Railway System Depot</string>
+    <string name="railwayinfo">is the oldest surviving railroad depot in Alabama </string>
+    <string name="chili">Anaheim Chili</string>
+    <string name="chiliInfo">Laid-back eatery featuring Southwestern-style chili, burgers and sandwiches, plus local beers.</string>
+    <string name="brokenEgg">Another Broken Egg Cafe</string>
+    <string name="brokenEggInfo">Casual chain featuring egg dishes and other breakfast items plus brunch sandwiches and a specials board.</string>
+    <string name="nicksRistorante"> Nick\'s Ristorante</string>
+    <string name="nicksRistoranteInfo">Steaks, seafood and Northern Italian dishes served in a warm bistro setting with a cigar lounge.</string>
+    <string name="huntsville">Huntsville</string>
+</resources>
